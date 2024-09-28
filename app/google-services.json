@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476259061464",
+    "project_id": "touristguide-aeaa3",
+    "storage_bucket": "touristguide-aeaa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476259061464:android:c5edce9d9fa2c1d84151ad",
+        "android_client_info": {
+          "package_name": "com.dataflair.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl6S631Qyu0j1RYzvQH7t-QvJpJL8jITA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
